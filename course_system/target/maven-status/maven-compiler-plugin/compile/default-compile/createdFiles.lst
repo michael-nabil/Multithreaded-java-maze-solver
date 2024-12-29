@@ -1,0 +1,8 @@
+com\mycompany\course_system\menus.class
+com\mycompany\course_system\course.class
+com\mycompany\course_system\Course_system.class
+com\mycompany\course_system\admin.class
+com\mycompany\course_system\person.class
+com\mycompany\course_system\files.class
+com\mycompany\course_system\instructor.class
+com\mycompany\course_system\student.class
