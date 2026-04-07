@@ -10,4 +10,6 @@ While current thread moving in the maze if it finds two possible directions it w
 create new thread for the second possible direction while protecting the critical section to prevent race condition.
 
 The user input: N (the maze size : N*N).
-The output: the path is shown in real time using javafx gui.
+The output: the path is shown in real time using javafx gui.<br>
+
+![Preview](images/visualization.png)
